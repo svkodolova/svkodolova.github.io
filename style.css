@@ -1,0 +1,42 @@
+#main-title {
+  color:PaleVioletRed;
+  font-size: 24px;
+  text-align: center;   
+}
+
+h2 {
+  color:MediumPurple;
+  font-size: 20px;
+}
+
+.quotes > p {
+  color: white;
+  background-color: DarkViolet;
+}
+
+.skills h2 {
+  color: SeaGreen;
+}
+
+.numbers ul {
+  color: SteelBlue;
+}
+
+.numbers ol > li > p {
+  color: DarkBlue;
+}
+
+#about {
+  color: RebeccaPurple;
+  background-color: Lavender;
+  font-size: 20px;
+}
+
+#age {
+  color: Blue;
+}
+
+#menu {
+  color:blueviolet;
+  background-color: aquamarine;
+}
